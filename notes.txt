@@ -1,4 +1,18 @@
-code . ->command used for open editor
-for export -> module.exports=functionName
+1. npm start //for start server
+2. Component is a collection of code which we can use reuse wherever neccassry.
+3. Component are two types: 
+a) Functional b) Class
+Install router: npm install react-router-dom
+Install bootstrap: npm install react-bootstrap bootstrap
+4. npx create-react-app app-ssr //for create new app
 
-when function doesn't have name they called anonymous function
+//Install Expree with below command
+5. npm install express
+
+//Install babel,babel-react and ignore-style with below command
+6. npm install @babel/register @babel/preset-env @babel/preset-react ignore-styles
+
+
+
+npm run build
+node server/index.js
